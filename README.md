@@ -34,7 +34,9 @@
 
 #### PHONE STAND ASSEMBLY
 
-![iphone](https://github.com/vinodkumar-s/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497226/872d7fbb-6693-4568-a498-de6e381b209e)
+
+![66](https://github.com/vinodkumar-s/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497226/01da5412-0578-4050-986e-c85e23bf246d)
+
 
 
 ### Output:
