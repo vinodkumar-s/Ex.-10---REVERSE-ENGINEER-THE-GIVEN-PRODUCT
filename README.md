@@ -32,11 +32,19 @@
 
 ## Input:
 
+#### PHONE STAND ASSEMBLY
+
+![iphone](https://github.com/vinodkumar-s/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497226/872d7fbb-6693-4568-a498-de6e381b209e)
+
+
 ### Output:
 
 
-### Name:
-### Register Number:
+![PhoneStandAssembly_png](https://github.com/vinodkumar-s/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497226/6d6d9443-f338-4974-b73f-038be0e01b86)
+
+
+### Name: VINOD KUAMR S
+### Register Number: 212222240116
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
